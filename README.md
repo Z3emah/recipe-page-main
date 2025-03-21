@@ -4,11 +4,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 
 ### Screenshots
-- Desktop view
-![](/recipe-page-main/images/Recipe-page-preview.png)
-- Mobile view
-![](/recipe-page-main/images/Recipe-page-mobileView.png)
-
+|<img src= "recipe-page-main/images/Recipe-page-preview.png" width ="500" height="300" object-fit="cover">|<img src= "recipe-page-main/images/Recipe-page-mobileView.png" width ="300" height="400" object-fit="cover">|
 
 
 ### Links
