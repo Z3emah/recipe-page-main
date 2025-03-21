@@ -9,8 +9,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/Z3emah/recipe-page-main](https://your-solution-url.com)
-- Live Site URL: [https://z3emah.github.io/recipe-page-main/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Z3emah/recipe-page-main](https://github.com/Z3emah/recipe-page-main)
+- Live Site URL: [https://z3emah.github.io/recipe-page-main](https://z3emah.github.io/recipe-page-main)
 
 
 ### Built with
